@@ -1,5 +1,5 @@
 # -JQ-alert-
-一个简单的alert自定义内容方法的插件
+一个简单的alert自定义内容方法的插件   下面是使用方法
 
         new EjectAlert({
             ok: function () {
